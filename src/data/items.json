@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Bunny",
+        "price": 10.99,
+        "imageUrl": "/img/bunny.png" 
+    },
+    {
+        "id": 2,
+        "name": "Van",
+        "price": 100.99,
+        "imageUrl": "/img/van.gif" 
+    },
+    {
+        "id": 3,
+        "name": "Element",
+        "price": 1.99,
+        "imageUrl": "/img/element.png" 
+    },
+    {
+        "id": 4,
+        "name": "Hazmat",
+        "price": 12.99,
+        "imageUrl": "/img/hazmat.png" 
+    }
+]
